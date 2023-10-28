@@ -1,0 +1,209 @@
+# Exported from Wings 3D 2.2.9
+newmtl 662aa7f7_6ece_0845_b554_8df4e9f3d642_1
+Ns 9.999999999999998
+d 0.256413
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.1 0.1 0.1
+Ke 0.0 0.0 0.0
+
+newmtl BG17
+Ns 50.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.1 0.1 0.1
+Ke 0.0 0.0 0.0
+map_Kd 3bhk_west_-_1492_sft_-_casa_ujjain_baseColorTexture.jpeg
+
+newmtl BG18
+Ns 50.0
+d 1.0
+illum 2
+Kd 0.866667 0.866667 0.866667
+Ka 0.0 0.0 0.0
+Ks 0.1 0.1 0.1
+Ke 0.0 0.0 0.0
+map_Kd 3bhk_west_-_1492_sft_-_casa_ujjain_baseColorTexture.jpeg
+
+newmtl BG18_0
+Ns 50.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.1 0.1 0.1
+Ke 0.0 0.0 0.0
+
+newmtl BG19
+Ns 50.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.1 0.1 0.1
+Ke 0.0 0.0 0.0
+
+newmtl Bedside
+Ns 9.999999999999998
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd 3bhk_west_-_1492_sft_-_casa_ujjain_baseColorTexture.jpeg
+
+newmtl Brown
+Ns 50.0
+d 1.0
+illum 2
+Kd 0.341176 0.360784 0.309804
+Ka 0.0 0.0 0.0
+Ks 0.1 0.1 0.1
+Ke 0.0 0.0 0.0
+
+newmtl Default-Material
+Ns 50.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.1 0.1 0.1
+Ke 0.0 0.0 0.0
+
+newmtl Default3
+Ns 9.999999999999998
+d 1.0
+illum 2
+Kd 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Ks 0.1 0.1 0.1
+Ke 0.0 0.0 0.0
+
+newmtl Default_Prototype
+Ns 50.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.1 0.1 0.1
+Ke 0.0 0.0 0.0
+
+newmtl DoorColor
+Ns 50.0
+d 1.0
+illum 2
+Kd 0.545098 0.545098 0.545098
+Ka 0.0 0.0 0.0
+Ks 0.1 0.1 0.1
+Ke 0.0 0.0 0.0
+map_Kd 3bhk_west_-_1492_sft_-_casa_ujjain_baseColorTexture.jpeg
+
+newmtl Masonry.Stone.Travertine.Cream.1
+Ns 50.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.1 0.1 0.1
+Ke 0.0 0.0 0.0
+map_Kd 3bhk_west_-_1492_sft_-_casa_ujjain_baseColorTexture.jpeg
+
+newmtl Switch_Light_OFF3
+Ns 9.999999999999998
+d 1.0
+illum 2
+Kd 0.8 0.8 0.8
+Ka 0.0 0.0 0.0
+Ks 0.1 0.1 0.1
+Ke 0.0 0.0 0.0
+
+newmtl Switch_Light_ON3
+Ns 50.0
+d 1.0
+illum 2
+Kd 0.8 0.8 0.8
+Ka 0.0 0.0 0.0
+Ks 0.1 0.1 0.1
+Ke 0.0 0.0 0.0
+
+newmtl beechwood_galliano
+Ns 50.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.1 0.1 0.1
+Ke 0.0 0.0 0.0
+map_Kd 3bhk_west_-_1492_sft_-_casa_ujjain_baseColorTexture.jpeg
+
+newmtl default
+Ns 19.999999999999996
+d 1.0
+illum 2
+Kd 0.7898538076923077 0.8133333333333334 0.6940444444444445
+Ka 0.0 0.0 0.0
+Ks 0.1689853807692308 0.17133333333333334 0.15940444444444446
+Ke 0.0 0.0 0.0
+
+newmtl lambert1
+Ns 9.999999999999998
+d 1.0
+illum 2
+Kd 0.924051 0.924051 0.924051
+Ka 0.0 0.0 0.0
+Ks 0.1 0.1 0.1
+Ke 0.0 0.0 0.0
+
+newmtl marble
+Ns 80.0
+d 1.0
+illum 2
+Kd 0.889706 0.889706 0.889706
+Ka 0.0 0.0 0.0
+Ks 0.21845589999999998 0.21845589999999998 0.21845589999999998
+Ke 0.0 0.0 0.0
+map_Kd 3bhk_west_-_1492_sft_-_casa_ujjain_baseColorTexture.jpeg
+
+newmtl material
+Ns 7.9999999999999964
+d 1.0
+illum 2
+Kd 0.544118 0.544118 0.544118
+Ka 0.0 0.0 0.0
+Ks 0.322059 0.322059 0.322059
+Ke 0.0 0.0 0.0
+map_Kd 3bhk_west_-_1492_sft_-_casa_ujjain_baseColorTexture.jpeg
+
+newmtl material_9
+Ns 50.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.37 0.37 0.37
+Ke 0.0 0.0 0.0
+map_Kd 3bhk_west_-_1492_sft_-_casa_ujjain_baseColorTexture.jpeg
+
+newmtl phong15
+Ns 9.999999999999998
+d 1.0
+illum 2
+Kd 0.266667 0.133333 0.00392157
+Ka 0.0 0.0 0.0
+Ks 0.1 0.1 0.1
+Ke 0.0 0.0 0.0
+
+newmtl wall2
+Ns 50.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.1 0.1 0.1
+Ke 0.0 0.0 0.0
+map_Kd 3bhk_west_-_1492_sft_-_casa_ujjain_baseColorTexture.jpeg
+
